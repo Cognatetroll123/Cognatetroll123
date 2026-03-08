@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+💻 Code Architect: Turning complex logic into clean, functional software.
+⚡ Electronics Student: Bridging the gap between software and silicon.
+🗣️ Fluency and Adaptability: Great at adapting new environment and implementing team coordination.
+🚀 Future Engineer: Building the next generation of smart, connected tech.
 <!--
 **Cognatetroll123/Cognatetroll123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
